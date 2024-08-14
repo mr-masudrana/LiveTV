@@ -6,84 +6,86 @@
   </head>
 </html>
 
-#EXTINF:-1 tvg-id="11862" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-national-bd.png" group-title="Bangla", BTV HD
+#EXTINF:-1 tvg-id="101" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-national-bd.png" group-title="Bangla", BTV HD
 https://cdn8.aliflailabd.com/BTV/index.m3u8
-#EXTINF:-1 tvg-id="19819" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-world-bd.png" group-title="Bangla", BTV WORLD
+#EXTINF:-1 tvg-id="102" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-world-bd.png" group-title="Bangla", BTV WORLD
 https://cdn8.aliflailabd.com/btv-world/index.m3u8
-#EXTINF:-1 tvg-id="19823" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-chattogram-bd.png" group-title="Bangla", BTV CHATTOGRAM
+#EXTINF:-1 tvg-id="103" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-chattogram-bd.png" group-title="Bangla", BTV CHATTOGRAM
 https://tg-aadi.000webhostapp.com/watch.php?id=19823
-#EXTINF:-1 tvg-id="19815" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sangshad-tv-bd.png" group-title="Bangla", SANGSHAD TV
+#EXTINF:-1 tvg-id="104" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sangshad-tv-bd.png" group-title="Bangla", SANGSHAD TV
 https://cdn8.aliflailabd.com/Sangsad-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="11925" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_bangla.png" group-title="Bangla", ATN BANGLA
+#EXTINF:-1 tvg-id="105" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_bangla.png" group-title="Bangla", ATN BANGLA
 https://cdn8.aliflailabd.com/ATN-Bangla/index.m3u8
-#EXTINF:-1 tvg-id="11910" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-i-bd.png" group-title="Bangla", CHANNEL I
+#EXTINF:-1 tvg-id="106" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-i-bd.png" group-title="Bangla", CHANNEL I
 https://cdn8.aliflailabd.com/Channel-i/index.m3u8
-#EXTINF:-1 tvg-id="11898" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekushey-tv-bd.png" group-title="Bangla", ETV
+#EXTINF:-1 tvg-id="107" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekushey-tv-bd.png" group-title="Bangla", ETV
 https://cdn8.aliflailabd.com/Ekushey-TV/index.m3u8
-#EXTINF:-1 tvg-id="11856" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Bangla", NTV
+#EXTINF:-1 tvg-id="108" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv_bd.png" group-title="Bangla", NTV
 https://cdn8.aliflailabd.com/ntv/index.m3u8
-#EXTINF:-1 tvg-id="11880" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-bd.png" group-title="Bangla", RTV
+#EXTINF:-1 tvg-id="109" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rtv-bd.png" group-title="Bangla", RTV
 https://cdn8.aliflailabd.com/RTV/index.m3u8
-#EXTINF:-1 tvg-id="11916" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boishakhi.png" group-title="Bangla", BOISHAKHI TV
+#EXTINF:-1 tvg-id="110" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boishakhi.png" group-title="Bangla", BOISHAKHI TV
 https://cdn8.aliflailabd.com/Boishakhi/index.m3u8
-#EXTINF:-1 tvg-id="11922" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangla-vision-bd.svg" group-title="Bangla", BANGLA VISION
+#EXTINF:-1 tvg-id="111" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangla-vision-bd.svg" group-title="Bangla", BANGLA VISION
 https://cdn8.aliflailabd.com/banglavision/index.m3u8
-#EXTINF:-1 tvg-id="11904" tvg-logo="https://www.lyngsat.com/logo/tv/dd/desh-tv-bd.png" group-title="Bangla News", DESH TV
+#EXTINF:-1 tvg-id="112" tvg-logo="https://www.lyngsat.com/logo/tv/dd/desh-tv-bd.png" group-title="Bangla News", DESH TV
 https://cdn8.aliflailabd.com/Desh-tv/index.m3u8
-#EXTINF:-1 tvg-id="11883" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_bd.png" group-title="Bangla", MYTV
+#EXTINF:-1 tvg-id="113" tvg-logo="https://www.lyngsat.com/logo/tv/mm/my_tv_bd.png" group-title="Bangla", MYTV
 https://cdn8.aliflailabd.com/MYTV-HD/index.m3u8
-#EXTINF:-1 tvg-id="11925" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_news_bd.png" group-title="Bangla News", ATN NEWS
+#EXTINF:-1 tvg-id="114" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atn_news_bd.png" group-title="Bangla News", ATN NEWS
 https://cdn8.aliflailabd.com/atn-news/index.m3u8
-#EXTINF:-1 tvg-id="11886" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mohona-tv-bd.svg" group-title="Bangla", MOHONA TV
+#EXTINF:-1 tvg-id="115" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mohona-tv-bd.svg" group-title="Bangla", MOHONA TV
 https://cdn8.aliflailabd.com/mohona-tv/index.m3u8
-#EXTINF:-1 tvg-id="11919" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bijoy-tv-bd.png" group-title="Bangla", BIJOY TV
+#EXTINF:-1 tvg-id="116" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bijoy-tv-bd.png" group-title="Bangla", BIJOY TV
 https://cdn8.aliflailabd.com/bijoy-tv/index.m3u8
-#EXTINF:-1 tvg-id="11874" tvg-logo="https://www.lyngsat.com/logo/tv/ss/somoy_news.png" group-title="Bangla News", SOMOY TV
+#EXTINF:-1 tvg-id="117" tvg-logo="https://www.lyngsat.com/logo/tv/ss/somoy_news.png" group-title="Bangla News", SOMOY TV
 https://cdn8.aliflailabd.com/Somoy-tv/index.m3u8
-#EXTINF:-1 tvg-id="11874" tvg-logo="https://www.lyngsat.com/logo/tv/ii/independent_tv.png" group-title="Bangla News", INDEPENDENT TV
+#EXTINF:-1 tvg-id="118" tvg-logo="https://www.lyngsat.com/logo/tv/ii/independent_tv.png" group-title="Bangla News", INDEPENDENT TV
 https://cdn8.aliflailabd.com/INDEPENDENT-TV/index.m3u8
-#EXTINF:-1 tvg-id="19827" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maasranga_tv_bd.png" group-title="Bangla", MAASRANGA HD
+#EXTINF:-1 tvg-id="119" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maasranga_tv_bd.png" group-title="Bangla", MAASRANGA HD
 https://cdn8.aliflailabd.com/maasranga-tv/index.m3u8
-#EXTINF:-1 tvg-id="11940" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel9_bd.png" group-title="Bangla", CHANNEL 9
+#EXTINF:-1 tvg-id="120" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel9_bd.png" group-title="Bangla", CHANNEL 9
 https://cdn8.aliflailabd.com/Channel-9/index.m3u8
-#EXTINF:-1 tvg-id="11913" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel24_bd.png" group-title="Bangla News", CHANNEL 24
+#EXTINF:-1 tvg-id="121" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel24_bd.png" group-title="Bangla News", CHANNEL 24
 https://cdn8.aliflailabd.com/CHANNEL-24/index.m3u8
-#EXTINF:-1 tvg-id="11892" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png" group-title="Bangla", GTV
+#EXTINF:-1 tvg-id="122" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gazi-tv-bd.png" group-title="Bangla", GTV
 https://cdn8.aliflailabd.com/GAZI/index.m3u8
-#EXTINF:-1 tvg-id="11901" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekattor_tv.png" group-title="Bangla News", EKATTOR TV
+#EXTINF:-1 tvg-id="123" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekattor_tv.png" group-title="Bangla News", EKATTOR TV
 https://cdn8.aliflailabd.com/Ekattor/index.m3u8
-#EXTINF:-1 tvg-id="11931" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-tv-bd.png" group-title="Bangla", ASIAN TV
+#EXTINF:-1 tvg-id="124" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asian-tv-bd.png" group-title="Bangla", ASIAN TV
 https://cdn8.aliflailabd.com/asiantv/index.m3u8
-#EXTINF:-1 tvg-id="11877" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sa_tv_bd.png" group-title="Bangla", SA TV
+#EXTINF:-1 tvg-id="125" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sa_tv_bd.png" group-title="Bangla", SA TV
 https://cdn8.aliflailabd.com/SATV/index.m3u8
-#EXTINF:-1 tvg-id="11895" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaan_bangla_tv_bd.png" group-title="Bangla", GAAN BANGLA
+#EXTINF:-1 tvg-id="126" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaan_bangla_tv_bd.png" group-title="Bangla", GAAN BANGLA
 https://cdn8.aliflailabd.com/GaanBangla/index.m3u8
-#EXTINF:-1 tvg-id="11868" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jamuna_tv_bd.png" group-title="Bangla News", JAMUNA TV
+#EXTINF:-1 tvg-id="127" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jamuna_tv_bd.png" group-title="Bangla News", JAMUNA TV
 https://cdn8.aliflailabd.com/jamuna-tv/index.m3u8
-#EXTINF:-1 tvg-id="11907" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deepto_tv_bd.png" group-title="Bangla", DEEPTO TV
+#EXTINF:-1 tvg-id="128" tvg-logo="https://www.lyngsat.com/logo/tv/dd/deepto_tv_bd.png" group-title="Bangla", DEEPTO TV
 https://cdn8.aliflailabd.com/deepto-tv/index.m3u8
-#EXTINF:-1 tvg-id="19807" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dbc_news_bd.png" group-title="Bangla News", DBC NEWS
+#EXTINF:-1 tvg-id="129" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dbc_news_bd.png" group-title="Bangla News", DBC NEWS
 https://cdn8.aliflailabd.com/DBC-News/index.m3u8
-#EXTINF:-1 tvg-id="19807" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news_24_bd.png" group-title="Bangla News", NEWS 24
+#EXTINF:-1 tvg-id="130" tvg-logo="https://www.lyngsat.com/logo/tv/nn/news_24_bd.png" group-title="Bangla News", NEWS 24
 https://cdn8.aliflailabd.com/News-24/index.m3u8
-#EXTINF:-1 tvg-id="19811" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangla-tv-bd.png" group-title="Bangla", BANGLA TV
+#EXTINF:-1 tvg-id="131" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bangla-tv-bd.png" group-title="Bangla", BANGLA TV
 https://cdn8.aliflailabd.com/Bangla-TV/index.m3u8
-#EXTINF:-1 tvg-id="11928" tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla", DURONTO TV
+#EXTINF:-1 tvg-id="132" tvg-logo="https://www.lyngsat.com/logo/tv/dd/duronto-tv-bd.png" group-title="Bangla", DURONTO TV
 https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
-#EXTINF:-1 tvg-id="19811" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png" group-title="Bangla", NAGORIK TV
+#EXTINF:-1 tvg-id="133" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png" group-title="Bangla", NAGORIK TV
 https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
-#EXTINF:-1 tvg-id="11928" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png" group-title="Bangla", ANANDA TV
+#EXTINF:-1 tvg-id="134" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png" group-title="Bangla", ANANDA TV
 https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
-#EXTINF:-1 tvg-id="19799" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nexus-tv-bd.png" group-title="Bangla", NEXUS TV HD
+#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nexus-tv-bd.png" group-title="Bangla", NEXUS TV HD
 https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
-#EXTINF:-1 tvg-id="19799" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="Bangla", EKHON
+#EXTINF:-1 tvg-id="136" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="Bangla", EKHON
 https://tg-aadi.000webhostapp.com/watch.php?id=19799
-#EXTINF:-1 tvg-id="19803" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-tv-bd.png" group-title="Bangla", GLOBAL TV
+#EXTINF:-1 tvg-id="137" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-tv-bd.png" group-title="Bangla", GLOBAL TV
 https://cdn8.aliflailabd.com/global-tv/index.m3u8
-#EXTINF:-1 tvg-id="19799" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-tv-bd.png" group-title="Bangla", GREEN TV
+#EXTINF:-1 tvg-id="138" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-tv-bd.png" group-title="Bangla", GREEN TV
 https://tg-aadi.000webhostapp.com/watch.php?id=19803
-#EXTINF:-1 tvg-id="18359" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-s-bd.png" group-title="Bangla", Channel S
+#EXTINF:-1 tvg-id="139" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-s-bd.png" group-title="Bangla", Channel S
+https://cdn8.aliflailabd.com/t-sports/index.m3u8
+#EXTINF:-1 tvg-id="140" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eten-tv-bd.png" group-title="Sports", E Ten TV
 https://cdn8.aliflailabd.com/t-sports/index.m3u8
 
 #EXTINF:-1 tvg-id="19787" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-bangla-pk.png" group-title="Religion", MADANI BANGLA CHANNEL
