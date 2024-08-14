@@ -104,7 +104,7 @@ http://103.141.2.37:25461/live/web/web/567.m3u8
 http://103.141.2.37:25461/live/web/web/568.m3u8
 
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="News", Al Jazeera
-https://cdn8.aliflailabd.com/Al-Jazeera/index.m3u8
+https://bdix.proximitybd.xyz/bangla.php?c=al_jazeera
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="News", BBC News
 https://tg-aadi.000webhostapp.com/watch.php?
 
