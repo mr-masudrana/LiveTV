@@ -7,7 +7,7 @@
 </html>
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-national-bd.png" group-title="Bangla", BTV HD
-https://cdn8.aliflailabd.com/BTV/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 #EXTINF:-1 tvg-id="102" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-world-bd.png" group-title="Bangla", BTV WORLD
 https://cdn8.aliflailabd.com/btv-world/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-chattogram-bd.png" group-title="Bangla", BTV CHATTOGRAM
