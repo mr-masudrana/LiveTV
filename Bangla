@@ -75,17 +75,17 @@ https://cdn8.aliflailabd.com/Duronto-tv/index.m3u8
 https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png" group-title="Bangla", ANANDA TV
 https://cdn8.aliflailabd.com/Anando-TV/index.m3u8
-#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nexus-tv-bd.png" group-title="Bangla", NEXUS TV HD
+#EXTINF:-1 tvg-id="136" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nexus-tv-bd.png" group-title="Bangla", NEXUS TV HD
 https://cdn8.aliflailabd.com/nexus-tv/index.m3u8
-#EXTINF:-1 tvg-id="136" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="Bangla", EKHON
+#EXTINF:-1 tvg-id="137" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ekhon-tv-bd.png" group-title="Bangla", EKHON
 https://tg-aadi.000webhostapp.com/watch.php?id=19799
-#EXTINF:-1 tvg-id="137" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-tv-bd.png" group-title="Bangla", GLOBAL TV
+#EXTINF:-1 tvg-id="138" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-tv-bd.png" group-title="Bangla", GLOBAL TV
 https://cdn8.aliflailabd.com/global-tv/index.m3u8
-#EXTINF:-1 tvg-id="138" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-tv-bd.png" group-title="Bangla", GREEN TV
+#EXTINF:-1 tvg-id="139" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-tv-bd.png" group-title="Bangla", GREEN TV
 https://tg-aadi.000webhostapp.com/watch.php?id=19803
-#EXTINF:-1 tvg-id="139" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-s-bd.png" group-title="Bangla", Channel S
+#EXTINF:-1 tvg-id="140" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-s-bd.png" group-title="Bangla", Channel S
 https://cdn8.aliflailabd.com/t-sports/index.m3u8
-#EXTINF:-1 tvg-id="140" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eten-tv-bd.png" group-title="Sports", E Ten TV
+#EXTINF:-1 tvg-id="141" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eten-tv-bd.png" group-title="Sports", E Ten TV
 https://cdn8.aliflailabd.com/t-sports/index.m3u8
 
 #EXTINF:-1 tvg-id="19787" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-bangla-pk.png" group-title="Religion", MADANI BANGLA CHANNEL
@@ -108,5 +108,5 @@ https://cdn8.aliflailabd.com/Al-Jazeera/index.m3u8
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="News", BBC News
 https://tg-aadi.000webhostapp.com/watch.php?
 
-#EXTINF:-1 tvg-id="18359" tvg-name="T Sports" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png" group-title="Sports", T Sports
+#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png" group-title="Sports", T Sports
 https://cdn8.aliflailabd.com/t-sports/index.m3u8
