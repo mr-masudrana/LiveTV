@@ -138,10 +138,12 @@ http://103.141.2.37:25461/live/web/web/567.m3u8
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="Documentary", National Geographic
 http://103.141.2.37:25461/live/web/web/568.m3u8
 
-#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="News", Al Jazeera
-https://bdix.proximitybd.xyz/bangla.php?c=al_jazeera
-#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="News", BBC News
-https://tg-aadi.000webhostapp.com/watch.php?
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="English News", Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="English News", BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dw-news.png" group-title="English News", DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png" group-title="Sports", T Sports
 https://bdix.proximitybd.xyz/bangla.php?c=t_sports
