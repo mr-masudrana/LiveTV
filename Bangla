@@ -119,18 +119,16 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-id="140" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-s-bd.png" group-title="Bangla", Channel S
 https://cdn8.aliflailabd.com/t-sports/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eten-tv-bd.png" group-title="Sports", E Ten TV
-https://cdn8.aliflailabd.com/t-sports/index.m3u8
 
-#EXTINF:-1 tvg-id="19787" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-bangla-pk.png" group-title="Religion", MADANI BANGLA CHANNEL
+#EXTINF:-1 tvg-id="141" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace-tv-bangla-ae.png" group-title="Religion", PEACE TV BANGLA
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-bangla-pk.png" group-title="Religion", MADANI BANGLA CHANNEL
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
-#EXTINF:-1 tvg-id="19787" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace-tv-bangla-ae.png" group-title="Religion", PEACE TV BANGLA
-https://tg-aadi.000webhostapp.com/watch.php?id=19787
 
-#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png" group-title="Religion", AL Quran
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religion", AS Sunnah
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png" group-title="Religion", AL Quran
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="144" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religion", AS Sunnah
+https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
 
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Documentary", Discovery
