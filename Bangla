@@ -8,7 +8,7 @@
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-national-bd.png" group-title="Bangla", BTV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="102" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-world-bd.png" group-title="Bangla", BTV WORLD
+#EXTINF:-1 tvg-id="102" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-news-bd.png" group-title="Bangla", BTV WORLD
 https://cdn8.aliflailabd.com/btv-world/index.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-chattogram-bd.png" group-title="Bangla", BTV CHATTOGRAM
 https://tg-aadi.000webhostapp.com/watch.php?id=19823
@@ -105,6 +105,9 @@ https://cdn8.aliflailabd.com/Nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ananda-tv-bd.png" group-title="Bangla", ANANDA TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png" group-title="Sports", T Sports
+https://bdix.proximitybd.xyz/bangla.php?c=t_sports
+
 #EXTINF:-1 tvg-id="136" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nexus-tv-bd.png" group-title="Bangla", NEXUS TV HD
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 
@@ -130,19 +133,26 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 tvg-id="144" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title="Religion", AS Sunnah
 https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 
-
-#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Documentary", Discovery
-http://103.141.2.37:25461/live/web/web/567.m3u8
-#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="Documentary", National Geographic
-http://103.141.2.37:25461/live/web/web/568.m3u8
-
-
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aljazeera-channel-al.png" group-title="English News", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc-news-uk.svg" group-title="English News", BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-international-us.svg" group-title="English News", CNN News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dw-news.png" group-title="English News", DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/tt/t-sports-bd.png" group-title="Sports", T Sports
+#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg" group-title="Kids", Cartoon Network
+https://bdix.proximitybd.xyz/bangla.php?c=t_sports
+
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg" group-title="Documentary", Animal Plant
+http://103.141.2.37:25461/live/web/web/567.m3u8
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="Documentary", Discovery
+http://103.141.2.37:25461/live/web/web/567.m3u8
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg" group-title="Documentary", National Geographic
+http://103.141.2.37:25461/live/web/web/568.m3u8
+#EXTINF:-1 tvg-id="11871" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.svg" group-title="Documentary", National Geographic Wild
+http://103.141.2.37:25461/live/web/web/568.m3u8
+
+#EXTINF:-1 tvg-id="135" tvg-logo="https://www.lyngsat.com/logo/tv/ee/eurosport-asia-fr.png" group-title="Sports", Eurosport
 https://bdix.proximitybd.xyz/bangla.php?c=t_sports
